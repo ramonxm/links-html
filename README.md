@@ -1,2 +1,17 @@
-# links-html
-Criação de uma interface responsiva para links estilo Linktree para instagram e demais redes sociais, usando css3 e html5.
+<h1 align="center"> BioLink </h1>
+
+
+## Projeto
+
+Interface responsiva para organizar links como propósito de colocar na bio do Instagram.
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+
+<p align="center"> Desenvolvido por Ramon Xavier </p>
